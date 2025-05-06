@@ -1,0 +1,7 @@
+
+title: "TEAVY Market"
+baseurl: "/"
+url: "https://teavy.com"
+theme: jekyll-theme-slate
+favicon: /assets/images/favicons/favicon.ico
+logo: /assets/images/teavy-logo.png
